@@ -123,31 +123,25 @@ Regular reconciliation between district-level and state-level datasets can help 
 
 ### 📊 Transaction Trends
 
-<p align="center">
-  <img src="./screenshots/transaction-trends.png" width="850">
-</p>
+<img width="1189" height="590" alt="transaction-trends" src="https://github.com/user-attachments/assets/9c6c8cb1-a791-418f-a81a-434f28381705" />
 
-<p>State-level transaction analysis highlighting changes in transaction volume and transaction amount over time.</p>
+State-level transaction analysis highlighting changes in transaction volume and transaction amount over time.
 
 ---
 
 ### 📈 Population Density vs Transaction Volume
 
-<p align="center">
-  <img src="./screenshots/density-vs-transaction-volume.png" width="850">
-</p>
+<img width="788" height="590" alt="density-vs-transaction-volume" src="https://github.com/user-attachments/assets/e662507d-64f2-48d8-8d93-c5662d555cb0" />
 
-<p>Correlation analysis examining the relationship between district population density and transaction volume.</p>
+Correlation analysis examining the relationship between district population density and transaction volume.
 
 ---
 
 ### 📱 Registered Users to Population Ratio
 
-<p align="center">
-  <img src="./screenshots/registered-users-population-ratio.png" width="850">
-</p>
+<img width="1390" height="590" alt="registered-users-population-ratio" src="https://github.com/user-attachments/assets/f1154d51-979c-4753-a957-9abc52e0ab58" />
 
-<p>State-level comparison of registered users relative to population to understand digital-payment adoption patterns.</p>
+State-level comparison of registered users relative to population to understand digital-payment adoption patterns.
 
 ---
 
